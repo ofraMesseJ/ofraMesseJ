@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://oframessej.com">
-    <img src="./github-profile-banner.png" alt="ofraMesseJ — Architecting universal intelligence & physical reality" width="100%" />
+    <img src="https://raw.githubusercontent.com/ofraMesseJ/ofraMesseJ/main/github-profile-banner.png" alt="ofraMesseJ — Architecting universal intelligence & physical reality" width="100%" />
   </a>
 </p>
 
