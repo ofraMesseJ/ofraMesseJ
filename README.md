@@ -15,7 +15,7 @@
 
 ### ofraMesseJ · Independent Deep-Tech Architecture House
 
-**ofraMesseJ** architects quantum-augmented neuro-symbolic cognition (**Q-NSAI**), **Foundational Models for Physical Reality (FMPRs)**, autonomous robotics (**ROS 2** · **NVIDIA Isaac**), and sovereign frontier ventures — founded by **Jesse Marfo** (*Founder & Chief Architect*).
+**ofraMesseJ** architects quantum-augmented neuro-symbolic cognition (**Q-NSAI**), **Foundational Models for Physical Reality (FMPRs)**, autonomous robotics (**ROS 2** · **NVIDIA Isaac**), and sovereign frontier ventures.
 
 ---
 
